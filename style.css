@@ -7,3 +7,11 @@
 body{
     background-color: beige;
 }
+p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    background-color:yellow;
+    display: inline-block
+    
+}
