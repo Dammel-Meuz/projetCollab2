@@ -7,6 +7,34 @@
 body{
     background-color: beige;
 }
+
+form{
+    background-color: white;
+    width:300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+input{
+    width: 100%;
+    margin-bottom: 15px ;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
 p{
     color: black;
     font-size: 20px;
